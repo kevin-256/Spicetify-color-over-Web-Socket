@@ -2,7 +2,7 @@
     {
       "name": "color-over-websocket",
       "description": "Spicetify extension send track cover main color to WebSocket server.",
-      "preview": "Images/preview.png",
+      "preview": "Images/logo.png",
       "main": "dist/color-over-websocket.js",
       "readme": "README.md",
       "authors": [
