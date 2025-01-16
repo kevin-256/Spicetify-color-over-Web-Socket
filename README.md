@@ -35,12 +35,14 @@ The data sent over Web Socket is a simple JSON with three values:
     1. [Download](http://benjamin.kuperberg.fr/chataigne/en#download) from the official website or [compile ](https://github.com/benkuper/Chataigne) and install [Chataigne](https://github.com/benkuper/Chataigne)
     
     2. In the top left of the UI in the tab Modules add a module
-        <img src="Images/Add Web Socket Module.png" width="600" >
+
+       <img src="Images/Add Web Socket Module.png" width="500" >
     
-    3. In the right Inspector tab set:
+    4. In the right Inspector tab set:
         1. JSON as the protocol
         2. Local Port, the same on Spicetify settings
-        <img src="Images/Setting Web Socket Settings.png" width="600">
+        <img src="Images/Setting Web Socket Settings.png" width="400">
+        
         3. If everything works after changing one song you can see some values appearing automatically on Values tab(you don't need to add the value by hand) 
     
-    4. Now you can reroute this values as you like trough OSC, Midi, Artet, GrandMA3... 
+    5. Now you can reroute this values as you like trough OSC, Midi, Artet, GrandMA3... 
